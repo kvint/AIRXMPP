@@ -1,0 +1,15 @@
+[submodule "robotlegs-framework"]
+	path = robotlegs-framework
+	url = git@github.com:kvint/robotlegs-framework.git
+[submodule "ChatLib"]
+	path = ChatLib
+	url = git@github.com:kvint/ChatLib.git
+[submodule "External/ChatLib"]
+	path = External/ChatLib
+	url = git@github.com:kvint/ChatLib.git
+[submodule "External/robotlegs-framework"]
+	path = External/robotlegs-framework
+	url = git@github.com:kvint/robotlegs-framework.git
+[submodule "External/Starling-Framework"]
+	path = External/Starling-Framework
+	url = git@github.com:Gamua/Starling-Framework.git
